@@ -390,4 +390,5 @@ details.panel[open] summary { margin-bottom: 10px; }
   main { padding: 14px 12px 60px; }
   .fld-row { flex-direction: column; gap: 0; }
   header.app-head, #nav { padding-left: 12px; padding-right: 12px; }
+  header.app-head { flex-direction: column; align-items: flex-start; gap: 2px; }
 }
